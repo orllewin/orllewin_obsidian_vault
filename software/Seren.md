@@ -1,3 +1,7 @@
+## Platform
+
+Android.
+
 ## About
 
 A pretty proficient [Gemini Protocol](https://en.wikipedia.org/wiki/Gemini_(protocol)) browser for Android. Lagrange took the spotlight but Seren was a more correct Android app with native ui and full accessibility features. A previous open source incarnation was called Ariane. Seren was released under the Anti-capitalist license which annoyed a lot of people. 

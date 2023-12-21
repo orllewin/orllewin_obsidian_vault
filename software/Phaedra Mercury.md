@@ -1,3 +1,7 @@
+## Platform
+
+Android.
+
 ## About 
 
 A continuation of [[Phaedra]] but targeting 'Mercury', which is essentially the [Gemini Protocol](https://en.wikipedia.org/wiki/Gemini_(protocol)) without TLS (which has proven a bit of a misstep for various reasons).

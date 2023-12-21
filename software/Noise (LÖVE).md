@@ -1,3 +1,7 @@
+## Platform
+
+LÖVE/Lua.
+
 An experiment in making a [LÖVE](https://love2d.org/) project look like a native MacOS application.
 
 [github.com/orllewin/love2d_noise](https://github.com/orllewin/love2d_noise)

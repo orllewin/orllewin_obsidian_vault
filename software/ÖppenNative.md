@@ -1,3 +1,7 @@
+## Platform
+
+Native.
+
 ## About
 
 ÖppenNative was an experiment to implement a Processing style render loop in [Kotlin Native](https://kotlinlang.org/docs/native-overview.html) using SDL bindings. It's an old unmaintained project so expect the usual Kotlin dependency pain if you try and build it.

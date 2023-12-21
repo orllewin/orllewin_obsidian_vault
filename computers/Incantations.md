@@ -1,17 +1,12 @@
 My memory...
 
-## Switch ssh identities
-Pushing to personal and work repos from the same computer, both on Github? You can set this up to be more automatic but I always forget how and it's complicated. This however is simple:
+### Remove Git
 
-* Add a different cert to each repo
-* Add a config file in .ssh: `./.ssh/config`:
+I always forget this:
+
 ```
-Host github.com
-  AddKeysToAgent yes
-  IdentityFile ~/.ssh/id_rsa
+rm -rf .git
 ```
-* Edit the IdentityFile for the repo you want to work with
-* Then run `ssh-add -D`
 
 ## Quick Git Push
 ```
@@ -76,3 +71,16 @@ do
 convert -modulate 100,0,100 "$file" "${file%.*}.$1"
 done
 ```
+
+## Switch ssh identities
+Pushing to personal and work repos from the same computer, both on Github? You can set this up to be more automatic but I always forget how and it's complicated. This however is simple:
+
+* Add a different cert to each repo
+* Add a config file in .ssh: `./.ssh/config`:
+```
+Host github.com
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/id_rsa
+```
+* Edit the IdentityFile for the repo you want to work with
+* Then run `ssh-add -D`

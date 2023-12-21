@@ -11,12 +11,9 @@
             "id": "b47e48a3845daeaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "software/images/example_anna.jpg"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "software/images/example_anna.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "software/images/example_anna.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "software/images/example_anna.jpg"
               }
             }
           },
@@ -160,51 +157,51 @@
   },
   "active": "c88cdd7641c79ea8",
   "lastOpenFiles": [
-    "README.md",
-    "software/Coracle.md",
-    "computers/December Adventure 2023.md",
+    "software/images/example_anna.jpg.sb-0be4aba4-RKIEXi",
+    "software/Raster Plotter.md",
+    "software/images/example_anna.jpg",
+    "computers/Incantations.md",
+    "graphics/Coracle.md",
+    "software/Text Editor.md",
+    "software/Smolicon.md",
     "software/Seren (Flutter).md",
     "software/Seren.md",
-    "software/images/receipts-i-have-the-receipts.gif",
+    "software/Radio.md",
+    "software/Phaedra Mercury.md",
+    "software/Phaedra.md",
+    "software/ÖppenNative.md",
+    "software/ÖppenHald.md",
+    "software/ÖppenBók.md",
+    "software/Merkja.md",
+    "software/Noise (LÖVE).md",
+    "software/ModularLöve.md",
     "software/Noise (Android).md",
-    "playdate/Midi bus.md",
-    "playdate/ModularPlay.md",
+    "software/LUT Film Package.md",
+    "software/Lento.md",
+    "software/Gempub.md",
+    "software/DitherKt.md",
+    "software/Coracle.md",
+    "software/Anamorphic Video.md",
+    "art/S, by A.md",
+    "art/Raster to line.md",
+    "assets/smiley.png",
+    "graphics/images/combined.png",
+    "graphics/images/blobmap.png",
+    "graphics/images/source.png",
+    "graphics/images",
+    "graphics",
+    "software/images/stracka_desqueezed_1636797233-2048x866.jpg",
+    "software/images/receipts-i-have-the-receipts.gif",
     "playdate/images/Screenshot 2023-12-21 at 08.45.44.png",
     "playdate/images/Screenshot 2023-12-21 at 08.45.44.png.sb-0be4aba4-5tYFME",
-    "software/ModularLöve.md",
-    "software/Noise (LÖVE).md",
     "stones/west_yorkshire/images/stones_stone_2_1.jpg",
     "stones/west_yorkshire/images/stones_stone_1_2.jpg",
-    "stones/west_yorkshire/images/stones_stone_1_1.jpg",
-    "stones/west_yorkshire/images/robin_hoods_bed_003.jpeg",
-    "stones/west_yorkshire/images/robin_hoods_bed_002.jpeg",
-    "stones/west_yorkshire/images/robin_hoods_bed_001.jpeg",
-    "stones/west_yorkshire/images/mount_cross_1.jpg",
-    "stones/west_yorkshire/images/great_rock_2.jpg",
-    "software/ÖppenBók.md",
-    "software/Radio.md",
-    "playdate/Coracle.md",
-    "playdate/Serial Comms.md",
-    "playdate/Reactive.md",
-    "playdate/Granular.md",
-    "playdate/Hexagram.md",
-    "playdate/Musik aus sample.md",
-    "playdate/Orbit Clock.md",
-    "hardware/Daydream Controller.md",
-    "software/Lento.md",
-    "software/LUT Film Package.md",
-    "calderdale/Sourhall.md",
-    "software/ÖppenHald.md",
-    "software/ÖppenNative.md",
-    "software/Text Editor.md",
     "software/images",
     "software/untitled folder",
     "software/android",
     "art/images",
     "art",
     "crafts/images/stone_inlaid_ring.jpg.sb-0be4aba4-QCCTLh",
-    "crafts/images/inlaid_ring.jpg.sb-0be4aba4-dV6Ukl",
-    "crafts/images/PXL_20220619_115221057.jpg.sb-0be4aba4-TbxXS1",
-    "crafts/images"
+    "crafts/images/inlaid_ring.jpg.sb-0be4aba4-dV6Ukl"
   ]
 }

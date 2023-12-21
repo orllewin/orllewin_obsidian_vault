@@ -1,3 +1,7 @@
+## Platform
+
+Web. Android.
+
 ## About
 
 Coracle is the name given to a portable Kotlin framework heavily influence by [Processing](https://processing.org/). It's a graphics playground. I spent quite a long time working with it (if not working on it, it was more fun creating the graphics experiments with it than developing it to be robust and correct):

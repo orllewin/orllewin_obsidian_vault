@@ -1,3 +1,7 @@
+## Platform
+
+JVM.
+
 ## About
 
 A HaldCLUT implementation in Kotlin.

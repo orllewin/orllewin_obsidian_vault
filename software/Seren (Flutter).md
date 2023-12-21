@@ -1,3 +1,7 @@
+## Platform
+
+Android.
+
 ## About
 
 A port of [[Seren]] (a [Gemini Protocol](https://en.wikipedia.org/wiki/Gemini_(protocol)) browser) to give Flutter a try.:

@@ -1,16 +1,19 @@
 .site-body-left-column-site-name{
   visibility: collapse;
 }
-.site-body-left-column-site-logo{
-  width: 50%;
+.site-body-left-column-site-logo img{
+  width: 30px;
   height: auto;
+  max-width: 400px;
+  
+}
+.site-body-left-column-site-logo{
+
+  text-align: left;
+
 }
 img {
   max-width:100%;
   /* -webkit-filter: grayscale(100%);
   filter: grayscale(100%); */
-}
-img:hover {
-    filter: none;
-    -webkit-filter: grayscale(0);
 }

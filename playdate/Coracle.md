@@ -1,6 +1,6 @@
 ## About
 
-Early Playdate experiments, porting Coracle to Lua. I had no idea what I was doing. This will all be terrible Lua, but it paved the way for future projects:
+Early Playdate experiments, porting [[software/Coracle|Coracle]] to Lua. I had no idea what I was doing. This will all be terrible Lua, but it paved the way for future projects:
 
 [github.com/orllewin/coracle_playdate](https://github.com/orllewin/coracle_playdate)
 

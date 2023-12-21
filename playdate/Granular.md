@@ -1,6 +1,6 @@
 ## Granular is archived
 
-There wont be any future development of Granular, it's still available on itch.io but you can now achieve the same output with more control in [[ModularPlay]], that's where all future Playdate audio dev efforts will be concentrated. The main screen of Granular was fantastic but the effects sections were always a little poor UX-wise., ModularPlay offers much more.
+There wont be any future development of Granular, it's still available on itch.io but you can now achieve the same output with more control in [[ModularPlay]] (well, coming very soon), that's where all future Playdate audio dev efforts will be concentrated. The main screen of Granular was fantastic but the effects sections were always a little poor UX-wise., ModularPlay offers much more.
 
 ![[granular_banner.png]]
 

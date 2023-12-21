@@ -1,3 +1,7 @@
+## Platform
+
+LÖVE/Lua.
+
 ## About
 
 An open source (but not FSF approved license) experiment porting [[ModularPlay]] to the desktop using [LÖVE](https://love2d.org/). Started as part of the 2023 December Adventure ModularLöve shaped up pretty quickly and is archived on Github: [github.com/orllewin/love2d_modular_love](https://github.com/orllewin/love2d_modular_love)

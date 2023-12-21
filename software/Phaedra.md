@@ -1,3 +1,7 @@
+## Platform
+
+Android.
+
 ## About
 
 Phaedra was a experimental project to write a [Gemini Protocol](https://en.wikipedia.org/wiki/Gemini_(protocol))client that'd run on the oldest Android devices. It highlights the problems with using TLS in a permacomputing world, crypto suites become compromised and servers stop accepting insecure methods. 
