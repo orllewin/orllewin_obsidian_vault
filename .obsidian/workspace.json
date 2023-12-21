@@ -11,8 +11,13 @@
             "id": "b47e48a3845daeaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -149,8 +158,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b47e48a3845daeaf",
+  "active": "c88cdd7641c79ea8",
   "lastOpenFiles": [
+    "README.md",
     "software/Coracle.md",
     "computers/December Adventure 2023.md",
     "software/Seren (Flutter).md",
@@ -187,7 +197,6 @@
     "software/ÖppenHald.md",
     "software/ÖppenNative.md",
     "software/Text Editor.md",
-    "software/DitherKt.md",
     "software/images",
     "software/untitled folder",
     "software/android",
