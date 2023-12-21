@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "ef6452fe7f607929",
+    "type": "split",
+    "children": [
+      {
+        "id": "993b99a9f6f1511e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b47e48a3845daeaf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abe15de32e7a4d7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "588257f970c2fc83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c88cdd7641c79ea8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c503d1587239b56e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d34f23b09ac6c524",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "f8b4eebe8508ba80",
+    "type": "split",
+    "children": [
+      {
+        "id": "644502f83ef850f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cfb5aa92a07fc62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87af620f907ee56c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29efde9591f0c7af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ed74ab42e8b67c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca04e85c70664b1d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "b47e48a3845daeaf",
+  "lastOpenFiles": [
+    "software/Coracle.md",
+    "computers/December Adventure 2023.md",
+    "software/Seren (Flutter).md",
+    "software/Seren.md",
+    "software/images/receipts-i-have-the-receipts.gif",
+    "software/Noise (Android).md",
+    "playdate/Midi bus.md",
+    "playdate/ModularPlay.md",
+    "playdate/images/Screenshot 2023-12-21 at 08.45.44.png",
+    "playdate/images/Screenshot 2023-12-21 at 08.45.44.png.sb-0be4aba4-5tYFME",
+    "software/ModularLöve.md",
+    "software/Noise (LÖVE).md",
+    "stones/west_yorkshire/images/stones_stone_2_1.jpg",
+    "stones/west_yorkshire/images/stones_stone_1_2.jpg",
+    "stones/west_yorkshire/images/stones_stone_1_1.jpg",
+    "stones/west_yorkshire/images/robin_hoods_bed_003.jpeg",
+    "stones/west_yorkshire/images/robin_hoods_bed_002.jpeg",
+    "stones/west_yorkshire/images/robin_hoods_bed_001.jpeg",
+    "stones/west_yorkshire/images/mount_cross_1.jpg",
+    "stones/west_yorkshire/images/great_rock_2.jpg",
+    "software/ÖppenBók.md",
+    "software/Radio.md",
+    "playdate/Coracle.md",
+    "playdate/Serial Comms.md",
+    "playdate/Reactive.md",
+    "playdate/Granular.md",
+    "playdate/Hexagram.md",
+    "playdate/Musik aus sample.md",
+    "playdate/Orbit Clock.md",
+    "hardware/Daydream Controller.md",
+    "software/Lento.md",
+    "software/LUT Film Package.md",
+    "calderdale/Sourhall.md",
+    "software/ÖppenHald.md",
+    "software/ÖppenNative.md",
+    "software/Text Editor.md",
+    "software/DitherKt.md",
+    "software/images",
+    "software/untitled folder",
+    "software/android",
+    "art/images",
+    "art",
+    "crafts/images/stone_inlaid_ring.jpg.sb-0be4aba4-QCCTLh",
+    "crafts/images/inlaid_ring.jpg.sb-0be4aba4-dV6Ukl",
+    "crafts/images/PXL_20220619_115221057.jpg.sb-0be4aba4-TbxXS1",
+    "crafts/images"
+  ]
+}
